@@ -1,0 +1,10 @@
+{
+    "path" : "/mnt/c/Users/darius/Music/",
+    "service_url" : "https://mp3-youtube.download/fr/audio-better-converter",
+    "spinner_type" : "monkey",
+    "spinner_text" : "Downloading ...",
+    "spinner_succed" : "Download completed.",
+    "input_el" : "#app input",
+    "button_el" : "#app button"
+
+}
