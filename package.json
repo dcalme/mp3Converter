@@ -13,6 +13,7 @@
   "dependencies": {
     "axios": "^0.21.1",
     "ora": "^5.4.0",
+    "prompt-sync": "^4.1.6",
     "puppeteer": "^10.0.0"
   }
 }
