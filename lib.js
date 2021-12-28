@@ -18,8 +18,8 @@ async function getMP3File(file_url, title, artiste, songtitle) {
         })
     })
     .catch(function (error) {
-        console.log("Error during download")
-        console.log(error)
+        console.log(`Error during download ${error}`)
+        
     })
 }
 

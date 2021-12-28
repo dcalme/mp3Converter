@@ -1,10 +1,10 @@
 {
-    "path" : "/mnt/c/Users/darius/Music/",
-    "service_url" : "https://mp3-youtube.download/fr/audio-better-converter",
+    "path" : "/home/darius/Musique/",
+    "service_url" : "https://mp3y.download/fr/fast-mp3-convert",
     "spinner_type" : "monkey",
     "spinner_text" : "Downloading ...",
     "spinner_succed" : "Download completed.",
-    "input_el" : "#app input",
-    "button_el" : "#app button"
+    "input_el" : "input.form-control",
+    "button_el" : "button.btn"
 
 }
